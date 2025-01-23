@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LuanOri</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Horikai)](https://github.com/Horikai/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elaxan" alt="LuanOri" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elaxan&label=Profile%20views&color=0e75b6&style=flat" alt="LuanOri" /> </p>
